@@ -129,7 +129,8 @@ BLACK35
 | Temperatura Painel |12 | B06|
 |High 3 |13 |- |
 |High 4 |14 |- |
-|Inj 2 |15 | A17| |A07|
+|Inj 2 |15 | A17| 
+|Inj 4 |16 | A07|
 |PGND |17 |- |
 |PGND |18 |- |
 |Inj 8 |19 |- |
